@@ -1,0 +1,16 @@
+snd	0	SYN	36798	0
+rcv	0.62	ACK	36799	0
+snd	0.93	DATA	36799	1000
+snd	1.0	DATA	37799	1000
+snd	1.05	DATA	38799	1000
+rcv	12.03	ACK	37799	0
+rcv	22.28	ACK	38799	0
+rcv	22.46	ACK	39799	0
+snd	22.52	DATA	39799	634
+rcv	22.66	ACK	40433	0
+snd	34.33	FIN	40434	0
+rcv	35.75	ACK	40435	0
+Amount of (original) Data Transferred(in bytes)(excluding retransmissions): 3634
+Number of Data Segments Sent(excluding transmissions): 4
+Number of Retransmitted Data Segments: 0
+Number of Duplicate Acknowledgments received: 0

@@ -1,0 +1,17 @@
+rcv	0	SYN	36798	0
+snd	0.56	ACK	36799	0
+rcv	1.13	DATA	36799	1000
+snd	1.42	ACK	37799	0
+rcv	1.6	DATA	37799	1000
+snd	1.65	ACK	38799	0
+rcv	1.7	DATA	38799	1000
+snd	1.75	ACK	39799	0
+rcv	22.25	DATA	39799	634
+snd	22.39	ACK	40433	0
+rcv	34.06	FIN	40434	0
+snd	34.18	ACK	40435	0
+Amount of (original) Data Received (in bytes) - does not include retransmitted data: 3634
+Number of (original) Data Segments Received: 4
+Number of duplicate Data Segments Received: 0
+Number of Data segments dropped: 0
+Number of ACK segments dropped: 0
